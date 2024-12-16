@@ -59,7 +59,7 @@ article,section{
     width: 100%;
 }
 
-@media screen and (max-width: 376px) {
+@media screen and (max-width: 320px) {
     .content{
         display: block;
         height: auto;
